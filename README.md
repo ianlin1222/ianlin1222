@@ -1,4 +1,4 @@
-<h1 align="left">Ian's profolio</h1>
+<h1 align="left">Ian's Portfolio</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am passionate about software development and problem-solving, with expertise in Python, Java, and JavaScript. Through academic projects and internships, I have developed robust applications that prioritize functionality and user experience, blending technical precision with creativity.</p>
+<p align="left">I am passionate about software development and problem-solving, with expertise in Python, Java, JavaScript, and frameworks like React and Flask. Through academic projects and internships, I have developed robust applications that prioritize functionality and user experience, blending technical precision with creativity.</p>
 
 ###
 
@@ -46,6 +46,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h4 align="left">• Frameworks & Libraries</h4>
+
+###
+
+<p align="center">- React, Flask</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
 </div>
 
 ###
